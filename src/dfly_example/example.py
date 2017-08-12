@@ -1,6 +1,5 @@
-import dragonfly.timer
 from dragonfly import *
-from unit import Unit
+from dragonfly_loader import Unit
 
 
 class ExampleUnit(Unit):

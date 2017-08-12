@@ -5,7 +5,7 @@
 dragonfly_loader Documentation
 =======================
 
-This repository contains the documentation of the `dragonfly_loader <http://www.monospark.org/projects/dragonfly_loader>`_ Python package.
+This repository contains the documentation of the `dragonfly_loader <https://github.com/Monospark/dragonfly_loader>`_ Python package.
 
 How to set up a local environment
 --------------------------------

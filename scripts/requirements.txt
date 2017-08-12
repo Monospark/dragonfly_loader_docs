@@ -1,0 +1,1 @@
+git+https://github.com/monospark/monospark_sphinx_theme.git#egg=monospark_sphinx_theme == 1.1.11
